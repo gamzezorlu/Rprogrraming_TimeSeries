@@ -1,4 +1,3 @@
-#1953 – 1974 yılları ABD imalatında sermaye harcamaları verisinde uygun modeli kurarak 1974 yılı tüm değerler için öngörüde bulunma
 install.packages("openxlsx")
 library(openxlsx)
 veri <- read.xlsx("odev3.xlsx")
